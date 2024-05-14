@@ -40,9 +40,3 @@ function bmicalculater(){
 //     }
 // }
 
-// javascripts objects
-
-const arr=[2,4,6,95,56,8];
-
-  let [one, two]=arr;
-  console.log(one,two);
